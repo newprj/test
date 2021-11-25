@@ -35,5 +35,7 @@ public class HomeController {
 		
 		return "home";
 	}
-	
+	public static void main(String[] args) {
+		System.out.println("수정");
+	}
 }
